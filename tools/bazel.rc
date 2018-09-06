@@ -1,0 +1,3 @@
+build:linux --color=yes
+build:clang --color=yes
+build:gcc --color=yes
